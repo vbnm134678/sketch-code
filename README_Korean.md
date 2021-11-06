@@ -21,7 +21,7 @@ SketchCode는 손으로 그린 웹 모형을 작동하는 HTML 코드로 변환�
 - Python 3 (not compatible with python 2)
 - pip
 
-### dependencies 설치
+### Dependencies 설치
 
 ```sh
 pip install -r requirements.txt
